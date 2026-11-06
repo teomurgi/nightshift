@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "teomurgi.nightshift",
+  "name": "Nightshift",
+  "version": "1.0.1",
+  "author": "Matteo Murgida <teomurgi@gmail.com>",
+  "license": "MIT",
+  "description": "Choose daytime and nighttime power profiles by local time",
+  "kinds": ["service", "bar-widget"],
+  "keepLoaded": true,
+  "entryPoints": {"service": "Service.qml", "barWidget": "Panel.qml"},
+  "barWidget": {"displayName": "Nightshift", "description": "Configure daily power profile switching", "category": "System", "allowMultiple": false}
+}
