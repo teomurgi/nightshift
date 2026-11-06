@@ -1,5 +1,7 @@
 # Nightshift
 
+![Nightshift panel showing daily power profile scheduling](preview.png)
+
 An Omarchy shell plugin for daily, local-time power profile scheduling. It changes CPU power profiles, not screen color temperature.
 
 ## Use
